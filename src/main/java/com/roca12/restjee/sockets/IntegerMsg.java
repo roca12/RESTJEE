@@ -1,4 +1,4 @@
-package com.roca12.restjee;
+package com.roca12.restjee.sockets;
 
 public class IntegerMsg extends AbstractMsg {
 
